@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "bebrashield:textures/font/bs4_title.png",
+            "file": "bebrashield:bs4_title.png",
             "ascent": 30,
             "height": 34,
             "chars": [
