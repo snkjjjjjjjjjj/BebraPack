@@ -1,0 +1,8 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "minecraft:font/bs4_title"
+    }
+  ]
+}

@@ -210,10 +210,6 @@
         "tooltrims:trims/items/wooden_sword_linear",
         "tooltrims:trims/items/wooden_sword_tracks"
     ]
-    },
-    {
-      "type": "single",
-      "resource": "minecraft:font/bs4_title"
     }
-  ]
+]
 }
