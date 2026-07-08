@@ -1,13 +1,13 @@
 {
-    "providers": [
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/bs4_title.png",
-            "ascent": 30,
-            "height": 34,
-            "chars": [
-                "\uE001"
-            ]
-        }
-    ]
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "font/bs4_title",
+      "ascent": 30,
+      "height": 34,
+      "chars": [
+        "\uE001"
+      ]
+    }
+  ]
 }
