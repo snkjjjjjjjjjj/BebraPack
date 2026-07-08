@@ -61,15 +61,6 @@
          "chars": [
             "\uD003"
          ]
-      },
-      {
-      "type": "bitmap",
-      "file": "bebrashield:bs4_title.png",
-      "ascent": 30,
-      "height": 34,
-      "chars": [
-        "\uE001"
-      ]
-    }
+      }
    ]
 }
