@@ -4,21 +4,38 @@
     "supported_formats": [64, 101],
     "min_format": 64,
     "max_format": 101,
-    "description": "BebraPack + ToolTrims Fixed"
+    "description": [
+      {
+        "text": "For 1.21.9+ | Tool Trims + BebraShield",
+        "color": "green"
+      }
+    ]
   },
   "overlays": {
     "entries": [
       {
-        "formats": 64,
+        "min_format": 64,
+        "max_format": 64,
+        "formats": [64, 64],
         "directory": "assets-ignore"
       },
       {
+        "min_format": 75,
+        "max_format": 84,
         "formats": [75, 84],
         "directory": "assets-1-21-11"
       },
       {
-        "formats": 84,
+        "min_format": 84,
+        "max_format": 84,
+        "formats": [84, 84],
         "directory": "assets-26-1"
+      },
+      {
+        "min_format": 94,
+        "max_format": 101,
+        "formats": [94, 101],
+        "directory": "data-1-21-11"
       }
     ]
   }
