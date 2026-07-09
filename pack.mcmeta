@@ -2,52 +2,24 @@
   "pack": {
     "pack_format": 64,
     "supported_formats": [64, 101],
-    "min_format": [ 64, 0 ],
-    "max_format": [ 101, 1 ],
-    "description": [
-      {
-        "text": "",
-        "color": "gray",
-        "extra": [
-          { "text": "For 1.21.9+", "color": "green" }, { "text": " | by ", "color": "gray" }, { "text": "JoeFly", "color": "dark_aqua"},
-          { "text": "\n⚠ Has to be loaded as a data and resource pack", "color": "gray" }
-        ],
-        "hover_event": {
-          "action": "show_text",
-          "value": [
-            { "text": "For 1.21.9+", "color": "green" }, { "text": " | by ", "color": "gray" }, { "text": "JoeFly", "color": "dark_aqua"},
-            { "text": "\n⚠ Has to be loaded as a data\nand resource pack", "color": "gray" }
-          ]
-        }
-      }
-    ]
+    "min_format": 64,
+    "max_format": 101,
+    "description": "BebraPack + ToolTrims Fixed"
   },
   "overlays": {
     "entries": [
       {
-			  "min_format": [64, 0],
-			  "max_format": [64, 0],
-        "formats": [ 64, 64 ],
-			  "directory": "assets-ignore"
-		  },
+        "formats": 64,
+        "directory": "assets-ignore"
+      },
       {
-			  "min_format": [75, 0],
-			  "max_format": [84, 0],
-        "formats": [ 75, 84 ],
-			  "directory": "assets-1-21-11"
-		  },
+        "formats": [75, 84],
+        "directory": "assets-1-21-11"
+      },
       {
-			  "min_format": [84, 0],
-			  "max_format": [84, 0],
-        "formats": [ 84, 84 ],
-			  "directory": "assets-26-1"
-		  },
-      {
-			  "min_format": [94, 1],
-			  "max_format": [101, 1],
-        "formats": [ 94, 101 ],
-			  "directory": "data-1-21-11"
-		  }
+        "formats": 84,
+        "directory": "assets-26-1"
+      }
     ]
   }
 }
