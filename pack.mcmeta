@@ -1,7 +1,6 @@
 {
   "pack": {
-    "pack_format": 34,
-    "supported_formats": [34, 100],
+    "pack_format": 84,
     "description": "BebraPack Flat Fixed"
   }
 }
