@@ -76,30 +76,6 @@
     "base": "minecraft:item/trident_in_hand",
     "model": {
         "type": "minecraft:trident"
-    },
-    "transformation": {
-        "left_rotation": [
-        0.0,
-        0.0,
-        0.0,
-        1.0
-        ],
-        "right_rotation": [
-        0.0,
-        0.0,
-        0.0,
-        1.0
-        ],
-        "scale": [
-        1.0,
-        -1.0,
-        -1.0
-        ],
-        "translation": [
-        0.0,
-        0.0,
-        0.0
-        ]
     }
 },
 "property": "minecraft:custom_model_data",
@@ -159,30 +135,6 @@
     "base": "minecraft:item/trident_throwing",
     "model": {
         "type": "minecraft:trident"
-    },
-    "transformation": {
-        "left_rotation": [
-        0.0,
-        0.0,
-        0.0,
-        1.0
-        ],
-        "right_rotation": [
-        0.0,
-        0.0,
-        0.0,
-        1.0
-        ],
-        "scale": [
-        1.0,
-        -1.0,
-        -1.0
-        ],
-        "translation": [
-        0.0,
-        0.0,
-        0.0
-        ]
     }
 },
 "property": "minecraft:custom_model_data",
@@ -312,30 +264,6 @@
     "base": "minecraft:item/trident_in_hand",
     "model": {
         "type": "minecraft:trident"
-    },
-    "transformation": {
-        "left_rotation": [
-        0.0,
-        0.0,
-        0.0,
-        1.0
-        ],
-        "right_rotation": [
-        0.0,
-        0.0,
-        0.0,
-        1.0
-        ],
-        "scale": [
-        1.0,
-        -1.0,
-        -1.0
-        ],
-        "translation": [
-        0.0,
-        0.0,
-        0.0
-        ]
     }
 },
 "property": "minecraft:component",
@@ -396,30 +324,6 @@
     "base": "minecraft:item/trident_throwing",
     "model": {
         "type": "minecraft:trident"
-    },
-    "transformation": {
-        "left_rotation": [
-        0.0,
-        0.0,
-        0.0,
-        1.0
-        ],
-        "right_rotation": [
-        0.0,
-        0.0,
-        0.0,
-        1.0
-        ],
-        "scale": [
-        1.0,
-        -1.0,
-        -1.0
-        ],
-        "translation": [
-        0.0,
-        0.0,
-        0.0
-        ]
     }
 },
 "property": "minecraft:component",

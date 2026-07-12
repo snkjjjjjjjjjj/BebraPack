@@ -2,9 +2,9 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "font/bs4_title",
-      "ascent": 30,
-      "height": 34,
+      "file": "minecraft:font/bs4_title_256.png",
+      "ascent": 75,
+      "height": 120,
       "chars": [
         "\uE001"
       ]
