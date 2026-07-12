@@ -25,12 +25,6 @@
 			  "max_format": [84, 0],
         "formats": [ 84, 84 ],
 			  "directory": "assets-26-1"
-		  },
-      {
-			  "min_format": [94, 1],
-			  "max_format": [101, 1],
-        "formats": [ 94, 101 ],
-			  "directory": "data-1-21-11"
 		  }
     ]
   }
