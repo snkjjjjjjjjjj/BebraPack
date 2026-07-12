@@ -4,23 +4,7 @@
     "supported_formats": [64, 101],
     "min_format": [ 64, 0 ],
     "max_format": [ 101, 1 ],
-    "description": [
-      {
-        "text": "",
-        "color": "gray",
-        "extra": [
-          { "text": "For 1.21.9+", "color": "green" }, { "text": " | by ", "color": "gray" }, { "text": "JoeFly", "color": "dark_aqua"},
-          { "text": "\n⚠ Has to be loaded as a data and resource pack", "color": "gray" }
-        ],
-        "hover_event": {
-          "action": "show_text",
-          "value": [
-            { "text": "For 1.21.9+", "color": "green" }, { "text": " | by ", "color": "gray" }, { "text": "JoeFly", "color": "dark_aqua"},
-            { "text": "\n⚠ Has to be loaded as a data\nand resource pack", "color": "gray" }
-          ]
-        }
-      }
-    ]
+    "description": "Набор ресурсов \nдля сервера БебраШилд"
   },
   "overlays": {
     "entries": [
