@@ -1,7 +1,8 @@
 {
-    "pack": {
-        "min_format": [69, 0],
-        "max_format": [9999, 0],
-        "description": "Набор ресурсов \nдля сервера БебраШилд"
-    }
+  "pack": {
+    "pack_format": 84,
+    "min_format": 84,
+    "max_format": 84,
+    "description": "Набор ресурсов \nдля сервера БебраШилд"
+  }
 }
